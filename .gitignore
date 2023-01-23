@@ -1,3 +1,4 @@
+*.binlog
 *.user
 bin
 obj
